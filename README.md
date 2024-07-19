@@ -1,6 +1,12 @@
 # Employee Manager
 
-I have created a table where users can make data manipulation on th table and save all the change in a time.
+I have created a table where users can make data manipulation on th table and save all the change in a time. I have created 2 version of saving mechanism, Manual Save and Autosave.
+
+## Manual Save Data
+In this table, user must click Save button for save all change on the table. This table created on file EmployeeTable.jsx
+
+## Autosave Data
+In this table, user can saved teh data by click the Save button or wait for 2 minutes for save all change on the table. This table created on file AutosaveEmployeeTable.jsx
 
 # React + Vite
 
