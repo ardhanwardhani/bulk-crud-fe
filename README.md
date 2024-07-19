@@ -1,3 +1,7 @@
+# Employee Manager
+
+I have created a table where users can make data manipulation on th table and save all the change in a time.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
